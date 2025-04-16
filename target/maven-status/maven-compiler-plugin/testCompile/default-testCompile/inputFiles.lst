@@ -1,0 +1,4 @@
+/home/motr3x/project/projectTest/boTTob/src/test/java/ru/scherin/telegramBot/TelegramBotApplicationTests.java
+/home/motr3x/project/projectTest/boTTob/src/test/java/ru/scherin/telegramBot/service/SendBotMessageServiceTest.java
+/home/motr3x/project/projectTest/boTTob/src/test/java/ru/scherin/telegramBot/command/CommandContainerTest.java
+/home/motr3x/project/projectTest/boTTob/src/test/java/ru/scherin/telegramBot/command/AbstractCommandTest.java
