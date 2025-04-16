@@ -1,0 +1,4 @@
+ru/scherin/telegramBot/command/CommandContainerTest.class
+ru/scherin/telegramBot/command/AbstractCommandTest.class
+ru/scherin/telegramBot/TelegramBotApplicationTests.class
+ru/scherin/telegramBot/service/SendBotMessageServiceTest.class

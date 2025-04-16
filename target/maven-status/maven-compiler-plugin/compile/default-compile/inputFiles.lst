@@ -1,2 +1,12 @@
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/service/SendBotMessageService.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/CommandEnum.java
 /home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/bot/TestBot.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/CommandContainer.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/StopCommand.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/Command.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/UnknownCommand.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/NoCommand.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/service/SendBotMessageServiceImpl.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/StartCommand.java
 /home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/TelegramBotApplication.java
+/home/motr3x/project/projectTest/boTTob/src/main/java/ru/scherin/telegramBot/command/HelpCommand.java
